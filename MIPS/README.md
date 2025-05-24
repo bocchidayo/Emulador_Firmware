@@ -2,7 +2,7 @@
 
 Este directorio contiene archivos descargados desde:
 
-- https://people.debian.org/~aurel32/qemu/mipsel/
+- https://people.debian.org/~aurel32/qemu/mips/
 
 ## Archivos incluidos
 
